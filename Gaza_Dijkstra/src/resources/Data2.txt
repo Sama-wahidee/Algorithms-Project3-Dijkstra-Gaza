@@ -1,0 +1,736 @@
+185 552
+Gaza 31.501704065964752 34.46684799702597 T
+BeitHanoun 31.538476592239412 34.53676860910133 T
+S1 31.548781910430733 34.528783046563326 F
+S2 31.529007740270583 34.51472731570013 F
+al-awda1 31.543023293521784 34.514098767440295 F
+S3 31.522180125373385 34.4957341087391 F
+Umal-Naser 31.558759941368642 34.519646188926075 T
+BeitLahia 31.551214944648265 34.50917903311335 T
+al-awda2 31.538170704383667 34.507837085267404 F
+al-mansheya1 31.54798005471539 34.50098733197044 F
+genBeitLahiya 31.54940245850797 34.497423665884156 F
+alFalouja1 31.535120651034187 34.48653314951202 F
+alFalouja2 31.53939600140479 34.482296841600906 F
+alQuds 31.53336504720566 34.47299794307574 F
+Atatra 31.559562519125475 34.48732411756458 T
+Jabalia 31.529321977652728 34.47978386357475 T
+S4 31.50157964640826 34.46638449527752 F
+S5 31.497044977271496 34.45798775383755 F
+S6 31.491037842350703 34.452595881191414 F
+S7 31.47977188555544 34.44228325368635 F
+S7_2 31.465147635131526 34.426792038450245 F
+S7_3 31.443368183712135 34.3978416958975 F
+S8 31.428925360298862 34.38006361907091 F
+S9 31.409839539035122 34.36010616746152 F
+S9_1 31.403398416998076 34.35386644693335 F
+S10 31.390889170796306 34.34561513843073 F
+S11 31.384780532217714 34.34098964696357 F
+S12 31.371858915574673 34.33158198591529 F
+S13 31.34386727497275 34.31422349527478 F
+S14 31.337550635543543 34.309678425606 F
+S15 31.309581749318898 34.3165017231404 F
+S16_1 31.286699603755473 34.31289683570601 F
+S16_2 31.275156300632155 34.30192635843564 F
+S16_3 31.270045025415932 34.28905274179468 F
+S16_4 31.266810672531896 34.28088375917653 F
+alMatahen1 31.39107762157116 34.332411307086986 F
+alMatahen2 31.389631415301817 34.31605599048152 F
+alMatahen3 31.389423788413108 34.311944819513286 F
+alMatahen5 31.39120304941967 34.30584375810947 F
+alMatahen6 31.378981388910464 34.31476577039702 F
+alMatahen7 31.378879573302516 34.30588903372711 F
+alMatahen8 31.376219199925718 34.3028946824318 F
+alMatahen9 31.378023217576175 34.30083934354729 F
+gushKatif1 31.375786310815748 34.29656138275475 F
+gushKatif2 31.37991591281698 34.293705318971426 F
+gushKatif3 31.369116778202542 34.28428600307894 F
+gushKatif5 31.363733500357014 34.27885099964771 F
+gushKatif6 31.338951251665367 34.25453516685828 F
+gushKatif7 31.32734428607684 34.24442700145748 F
+gushKatif8 31.32128990070466 34.24431778714442 F
+gushKatif9 31.311055958719795 34.25447818779469 F
+gushKatif10 31.310339476660342 34.26306195570581 F
+gushKatif11 31.314149532007825 34.27210547536673 F
+alImam1 31.31007181018324 34.26944254850048 F
+alImam2 31.306133969012865 34.26298690431978 F
+alImam3 31.301710816910543 34.250229711638276 F
+alImam4 31.304959109770056 34.24778336411731 F
+alImam5 31.30735504461668 34.244682084418365 F
+alImam6 31.308124185688516 34.241034752740255 F
+alImam7 31.307226942321318 34.2369817504431 F
+alOrouba1 31.27027816849965 34.27648668647374 F
+alOrouba2 31.269150167295127 34.260997516839154 F
+alOrouba3 31.27523196010362 34.25282621334314 F
+othman 31.28038895442278 34.25621596114619 F
+omarBenAlkhatab1 31.288694997389214 34.26359750249749 F
+omarBenAlkhatab2 31.29930363251694 34.27409224056989 F
+omarBenAlkhatab3 31.30969144223881 34.281547055081454 F
+osamaElnajjar3 31.322303815270747 34.28641880277243 F
+osamaElnajjar2 31.333672741847383 34.29570260103505 F
+abuBaker1 31.293251302367388 34.24465048132616 F
+abuBaker3 31.29913572955444 34.24299783601012 F
+abuBaker4 31.303971175135047 34.238108637902485 F
+abuBaker5 31.31822651683354 34.23287839815675 F
+abuBaker6 31.326436451686487 34.23437333386099 F
+abuBaker7 31.33137686466443 34.23016056060984 F
+alRashid1 31.52184745019637 34.432349799658 F
+alRashid2 31.45706343255703 34.37031146884403 F
+alRashid3 31.460153231406597 34.37229053157449 F
+alRashid4 31.476621572510275 34.38857907155891 F
+alRashid5 31.485246284463578 34.398951107695844 F
+alRashid6 31.425612054062263 34.33859050616432 F
+alRashid7 31.39327727875655 34.299724898627886 F
+alRashid8 31.382693199105113 34.28831042221165 F
+alRashid9 31.352019082420362 34.254229643799775 F
+alRashid10 31.345065147310507 34.24589159317581 F
+UmAllymoum1 31.50043897226501 34.46067260324097 F
+UmAllymoum2 31.502376006412742 34.45781751261574 F
+UmAllymoum3 31.504230013038857 34.458736104387626 F
+Althalatheny1 31.506769322935554 34.45547885466018 F
+Althalatheny2 31.511218472347796 34.4473577839161 F
+Althalatheny3 31.512595711780204 34.44482254802971 F
+Althalatheny4 31.51872197250933 34.43546079895082 F
+BourSaid 31.50875863028238 34.457833782748864 F
+AlNafaq1 31.514916256646565 34.466179281908666 F
+AlNafaq2 31.522798225712712 34.46671935138972 F
+AlNafaq3 31.525835266142014 34.46946111697721 F
+KamalNaser 31.527887774725958 34.46661511363481 F
+aljalal 31.52567732230772 34.46403627849306 F
+shifa 31.53285907432766 34.45561331542332 F
+abuAli 31.53664266866697 34.4512587731982 F
+alMashtal 31.538698933753896 34.45357741427922 F
+alMashtal2 31.54111138006826 34.45054517324803 F
+ahmadOraby 31.5462194408513 34.454988951222965 F
+salahKhalaf1 31.539452785432832 34.46502978963148 F
+salahKhalaf2 31.54043762496543 34.463965306980576 F
+alToam1 31.559489151428053 34.48277366387555 F
+alToam2 31.553243405995307 34.478717426769606 F
+alToam3 31.54748019834115 34.47514487622727 F
+alSalaten1 31.555261760999322 34.491353969182484 F
+alSalaten2 31.550672638817137 34.482017162664 F
+Zeitoun 31.51743580884074 34.4496191263176 T
+omarAlMukhtar1 31.514405520318682 34.45086081072363 F
+omarAlMukhtar2 31.52091972954115 34.44219082672894 F
+omarAlMukhtar3 31.527905415366053 34.437912340086775 F
+AlZahra 31.471081002358396 34.40171755922877 T
+WadiGhaza 31.46454843478162 34.38471915720124 T
+alShawa1 31.49371131172949 34.448764512422386 F
+alShawa2 31.498761942073845 34.44099171956949 F
+alShawa3 31.500929710367533 34.433944704613126 F
+alShawa4 31.503733782893768 34.42819659208401 F
+alShawa5 31.504965675089437 34.42314894237684 F
+alShawa6 31.50583747335539 34.41764820023874 F
+alSenaa 31.5076389180852 34.43747480365316 F
+cario1 31.511881586491164 34.4293037640903 F
+cario2 31.514265270619372 34.42581749025154 F
+no10_1 31.50091309321076 34.41748151504629 F
+no10_2 31.497628164236374 34.41957915097601 F
+no10_3 31.491119828963818 34.426084543161934 F
+no10_4 31.486927774082037 34.43054750166502 F
+no10_5 31.483663136231687 34.43724500788252 F
+no10_6 31.50267445940213 34.414447090765584 F
+al-Mughraqa 31.466811953243447 34.41150454023435 T
+NuseiratCamp 31.449892916083623 34.3928660328464 T
+Bureij 31.438785088019948 34.40234703284024 T
+Maghazi 31.421732844290005 34.38541594817318 T
+AlZawayda 31.431729171689465 34.369891579623136 T
+alMokhayam2_1 31.43242425413914 34.374457450948434 F
+alMokhayam2_2 31.42847805017843 34.36681851366359 F
+alMokhayam2_4 31.433169587306306 34.36222678042677 F
+alMokhayam2_5 31.43672645727828 34.356159547820425 F
+alMokhayam2_6 31.439126492277992 34.352543387400196 F
+AlMusaddar 31.40990530501737 34.38376615657505 T
+S8_2 31.41806758323604 34.369803541848334 F
+Deiral-Balah 31.417138088179538 34.35084511748609 T
+Wadial-Salqa 31.391490345792317 34.369891757146185 T
+kissufim1 31.388177847250635 34.35031010733532 F
+kissufim2 31.379472693741093 34.35646524564425 F
+kissufim3 31.376237236142842 34.36115919130657 F
+kissufim4 31.373688495465267 34.37313739398652 F
+AlQarara 31.36076576432656 34.33181160524295 T
+S17 31.367495248875784 34.331387653680174 F
+S18 31.355836926764816 34.32711521984122 F
+S19 31.346681830082648 34.3151438821546 F
+BaniSuheila 31.342029782704373 34.32521103278715 T
+elBaheer1 31.344338764443226 34.30308795306028 F
+elBaheer2 31.355003605165177 34.28161112920187 F
+elBaheer3 31.356712524969133 34.278956406342324 F
+elBaheer4 31.349245270101306 34.2913946706834 F
+elBaheer5 31.361235723075502 34.280910651135095 F
+gamalAbedElnaser2 31.34326007178148 34.30813438972339 F
+gamalAbedElnaser4 31.342192371710205 34.302151455542855 F
+gamalAbedElnaser5 31.35157280584581 34.30638462908163 F
+gamalAbedElnaser6 31.357280873795535 34.31551016241249 F
+osamaElnajjar1 31.339957896602456 34.30598828176731 F
+alAwda 31.34275571131865 34.32526730707665 F
+absan1 31.32910704047868 34.33891251141204 F
+absan2 31.323234161101887 34.34684804294693 F
+absan3 31.309241486469997 34.36463387114846 F
+alSalam 31.306843592520593 34.36120152702722 F
+'Abasanal-Jadida 31.340981780180922 34.344130957053174 T
+'Abasanal-Kabira 31.320495239185306 34.3430480530229 T
+Khuza'a 31.307021097065835 34.36004745533712 T
+AlFukhkhari 31.295223672607726 34.3331471840106 T
+Khan_Yunis 31.346206712124786 34.303999975740254 T
+al-Mawasi 31.348340837575552 34.25609303279058 T
+Talal-Sultan 31.30919975737915 34.24139303276912 T
+tahaHussein1 31.284813730929518 34.27187684630867 F
+tahaHussein2 31.278018289350417 34.278392467516376 F
+tahaHussein3 31.274047197669628 34.286014104526664 F
+saddam1 31.282486620757556 34.273730407623226 F
+saddam2 31.272530620429116 34.25850211821723 F
+al-Bayuk 31.26336977206698 34.28158094808626 T
+al-Shoka 31.253947908635208 34.29216448171794 T
+al-Nasr 31.28921679626908 34.30049431161169 T
+Rafah 31.29677394815485 34.243483702033224 T
+BeitHanoun S1
+S1 BeitHanoun
+BeitHanoun S2
+S2 BeitHanoun
+S1 Umal-Naser
+Umal-Naser S1
+S1 BeitLahia
+BeitLahia S1
+S1 al-awda1
+al-awda1 S1
+S2 al-awda2
+al-awda2 S2
+S2 S3
+S3 S2
+al-awda1 BeitLahia
+BeitLahia al-awda1
+al-awda1 al-awda2
+al-awda2 al-awda1
+al-awda1 al-mansheya1
+al-mansheya1 al-awda1
+S3 Jabalia
+Jabalia S3
+S3 alQuds
+alQuds S3
+S3 Gaza
+Gaza S3
+S3 S4
+S4 S3
+Umal-Naser al-awda1
+al-awda1 Umal-Naser
+Umal-Naser BeitLahia
+BeitLahia Umal-Naser
+Umal-Naser Atatra
+Atatra Umal-Naser
+Umal-Naser genBeitLahiya
+genBeitLahiya Umal-Naser
+Umal-Naser alSalaten1
+alSalaten1 Umal-Naser
+BeitLahia al-awda1
+al-awda1 BeitLahia
+BeitLahia al-mansheya1
+al-mansheya1 BeitLahia
+al-awda2 al-mansheya1
+al-mansheya1 al-awda2
+al-mansheya1 genBeitLahiya
+genBeitLahiya al-mansheya1
+genBeitLahiya alSalaten1
+alSalaten1 genBeitLahiya
+genBeitLahiya alFalouja1
+alFalouja1 genBeitLahiya
+alFalouja1 alFalouja2
+alFalouja2 alFalouja1
+alFalouja1 Jabalia
+Jabalia alFalouja1
+alFalouja2 alToam3
+alToam3 alFalouja2
+alFalouja2 alQuds
+alQuds alFalouja2
+alQuds Jabalia
+Jabalia alQuds
+alQuds salahKhalaf1
+salahKhalaf1 alQuds
+alQuds S3
+S3 alQuds
+alQuds KamalNaser
+KamalNaser alQuds
+Atatra alSalaten1
+alSalaten1 Atatra
+Atatra alToam1
+alToam1 Atatra
+Jabalia S3
+S3 Jabalia
+Gaza S3
+S3 Gaza
+Gaza S4
+S4 Gaza
+Gaza BourSaid
+BourSaid Gaza
+S4 BourSaid
+BourSaid S4
+S4 UmAllymoum1
+UmAllymoum1 S4
+S4 S5
+S5 S4
+S5 UmAllymoum1
+UmAllymoum1 S5
+S5 S6
+S6 S5
+S6 alShawa1
+alShawa1 S6
+S6 S7
+S7 S6
+S7 S7_2
+S7_2 S7
+S7 no10_5
+no10_5 S7
+S7_2 al-Mughraqa
+al-Mughraqa S7_2
+S7_2 S7_3
+S7_3 S7_2
+S7_3 NuseiratCamp
+S7_3 Bureij
+S7_3 S8
+NuseiratCamp S7_3
+Bureij S7_3
+S8 S7_3
+S8 S8_2
+S8_2 S8
+S8 Maghazi
+Maghazi S8
+S8 alMokhayam2_1
+alMokhayam2_1 S8
+S8_2 AlMusaddar
+S8_2 alMokhayam2_2
+S8_2 S9
+AlMusaddar S8_2
+alMokhayam2_2 S8_2
+S9 S8_2
+S9 Wadial-Salqa
+Wadial-Salqa S9
+S9 Deiral-Balah
+Deiral-Balah S9
+S9 S9_1
+S9_1 S9
+S9_1 S10
+S10 S9_1
+S10 S11
+S11 S10
+S10 kissufim1
+kissufim1 S10
+S11 S12
+S12 S11
+S11 alMatahen1
+alMatahen1 S11
+S12 S17
+S17 S12
+S12 gamalAbedElnaser6
+gamalAbedElnaser6 S12
+S13 S19
+S19 S13
+S13 alAwda
+alAwda S13
+S13 S14
+S14 S13
+S13 gamalAbedElnaser2
+gamalAbedElnaser2 S13
+S14 osamaElnajjar1
+osamaElnajjar1 S14
+S14 S15
+S15 S14
+S15 AlFukhkhari
+AlFukhkhari S15
+S15 S16_1
+S16_1 S15
+S16_1 al-Nasr
+al-Nasr S16_1
+S16_1 S16_2
+S16_2 S16_1
+S16_2 S16_3
+S16_3 S16_2
+S16_3 tahaHussein3
+tahaHussein3 S16_3
+S16_3 al-Shoka
+al-Shoka S16_3
+S16_3 al-Bayuk
+al-Bayuk S16_3
+S16_3 S16_4
+S16_4 S16_3
+S16_4 al-Bayuk
+al-Bayuk S16_4
+S16_4 alOrouba1
+alOrouba1 S16_4
+alMatahen1 alMatahen2
+alMatahen2 alMatahen1
+alMatahen2 alMatahen3
+alMatahen3 alMatahen2
+alMatahen2 alMatahen6
+alMatahen6 alMatahen2
+alMatahen3 alMatahen5
+alMatahen5 alMatahen3
+alMatahen5 alRashid7
+alRashid7 alMatahen5
+alMatahen6 alMatahen7
+alMatahen7 alMatahen6
+alMatahen7 alMatahen8
+alMatahen8 alMatahen7
+alMatahen8 alMatahen9
+alMatahen9 alMatahen8
+alMatahen9 gushKatif1
+gushKatif1 alMatahen9
+gushKatif1 gushKatif3
+gushKatif3 gushKatif1
+gushKatif1 gushKatif2
+gushKatif2 gushKatif1
+gushKatif2 alRashid8
+alRashid8 gushKatif2
+gushKatif3 gushKatif5
+gushKatif5 gushKatif3
+gushKatif5 al-Mawasi
+al-Mawasi gushKatif5
+gushKatif5 elBaheer5
+elBaheer5 gushKatif5
+gushKatif5 gushKatif6
+gushKatif6 gushKatif5
+gushKatif6 al-Mawasi
+al-Mawasi gushKatif6
+gushKatif6 alRashid10
+alRashid10 gushKatif6
+gushKatif6 gushKatif7
+gushKatif7 gushKatif6
+gushKatif7 gushKatif8
+gushKatif8 gushKatif7
+gushKatif8 gushKatif9
+gushKatif9 gushKatif8
+gushKatif8 Talal-Sultan
+Talal-Sultan gushKatif8
+gushKatif9 Talal-Sultan
+Talal-Sultan gushKatif9
+gushKatif9 gushKatif10
+gushKatif10 gushKatif9
+gushKatif10 gushKatif11
+gushKatif11 gushKatif10
+gushKatif11 omarBenAlkhatab3
+omarBenAlkhatab3 gushKatif11
+gushKatif11 alImam1
+alImam1 gushKatif11
+alImam1 alImam2
+alImam2 alImam1
+alImam2 alImam3
+alImam3 alImam2
+alImam3 alImam4
+alImam4 alImam3
+alImam3 Rafah
+Rafah alImam3
+alImam3 abuBaker3
+abuBaker3 alImam3
+alImam4 alImam5
+alImam5 alImam4
+alImam5 Talal-Sultan
+Talal-Sultan alImam5
+alImam5 alImam6
+alImam6 alImam5
+alImam6 Talal-Sultan
+Talal-Sultan alImam6
+alImam6 alImam7
+alImam7 alImam6
+alImam7 abuBaker4
+abuBaker4 alImam7
+alImam7 abuBaker5
+abuBaker5 alImam7
+alOrouba1 alOrouba2
+alOrouba2 alOrouba1
+alOrouba2 saddam2
+saddam2 alOrouba2
+alOrouba3 othman
+othman alOrouba3
+othman omarBenAlkhatab1
+omarBenAlkhatab1 othman
+othman abuBaker1
+abuBaker1 othman
+omarBenAlkhatab1 tahaHussein1
+tahaHussein1 omarBenAlkhatab1
+omarBenAlkhatab1 omarBenAlkhatab2
+omarBenAlkhatab2 omarBenAlkhatab1
+omarBenAlkhatab1 Rafah
+Rafah omarBenAlkhatab1
+omarBenAlkhatab2 omarBenAlkhatab3
+omarBenAlkhatab3 omarBenAlkhatab2
+omarBenAlkhatab3 osamaElnajjar3
+osamaElnajjar3 omarBenAlkhatab3
+osamaElnajjar3 osamaElnajjar2
+osamaElnajjar2 osamaElnajjar3
+osamaElnajjar2 gamalAbedElnaser4
+gamalAbedElnaser4 osamaElnajjar2
+osamaElnajjar2 osamaElnajjar1
+osamaElnajjar1 osamaElnajjar2
+abuBaker1 abuBaker3
+abuBaker3 abuBaker1
+abuBaker1 Rafah
+Rafah abuBaker1
+abuBaker3 Rafah
+Rafah abuBaker3
+abuBaker4 abuBaker3
+abuBaker3 abuBaker4
+abuBaker5 abuBaker6
+abuBaker6 abuBaker5
+abuBaker6 abuBaker7
+abuBaker7 abuBaker6
+abuBaker7 alRashid10
+alRashid10 abuBaker7
+alRashid1 omarAlMukhtar3
+omarAlMukhtar3 alRashid1
+alRashid1 Althalatheny4
+Althalatheny4 alRashid1
+alRashid1 cario2
+cario2 alRashid1
+alRashid2 alRashid3
+alRashid3 alRashid2
+alRashid2 alMokhayam2_6
+alMokhayam2_6 alRashid2
+alRashid3 WadiGhaza
+WadiGhaza alRashid3
+alRashid3 alRashid4
+alRashid4 alRashid3
+alRashid3 NuseiratCamp
+NuseiratCamp alRashid3
+alRashid4 AlZahra
+AlZahra alRashid4
+alRashid4 alRashid5
+alRashid5 alRashid4
+alRashid5 no10_6
+no10_6 alRashid5
+alRashid5 AlZahra
+AlZahra alRashid5
+alRashid6 alMokhayam2_6
+alMokhayam2_6 alRashid6
+alRashid6 Deiral-Balah
+Deiral-Balah alRashid6
+alRashid6 alRashid7
+alRashid7 alRashid6
+alRashid7 alRashid8
+alRashid8 alRashid7
+alRashid8 alRashid9
+alRashid9 alRashid8
+alRashid9 al-Mawasi
+al-Mawasi alRashid9
+alRashid9 alRashid10
+alRashid10 alRashid9
+UmAllymoum1 UmAllymoum2
+UmAllymoum2 UmAllymoum1
+UmAllymoum2 UmAllymoum3
+UmAllymoum3 UmAllymoum2
+UmAllymoum2 alShawa1
+alShawa1 UmAllymoum2
+UmAllymoum3 Althalatheny1
+Althalatheny1 UmAllymoum3
+Althalatheny1 BourSaid
+BourSaid Althalatheny1
+Althalatheny1 Althalatheny2
+Althalatheny2 Althalatheny1
+Althalatheny2 omarAlMukhtar1
+omarAlMukhtar1 Althalatheny2
+Althalatheny2 Althalatheny3
+Althalatheny3 Althalatheny2
+Althalatheny3 Althalatheny4
+Althalatheny4 Althalatheny3
+Althalatheny3 alSenaa
+alSenaa Althalatheny3
+Althalatheny4 cario1
+cario1 Althalatheny4
+BourSaid AlNafaq1
+AlNafaq1 BourSaid
+BourSaid omarAlMukhtar1
+omarAlMukhtar1 BourSaid
+AlNafaq1 AlNafaq2
+AlNafaq2 AlNafaq1
+AlNafaq2 AlNafaq3
+AlNafaq3 AlNafaq2
+AlNafaq3 KamalNaser
+KamalNaser AlNafaq3
+KamalNaser aljalal
+aljalal KamalNaser
+aljalal shifa
+shifa aljalal
+aljalal Zeitoun
+Zeitoun aljalal
+aljalal omarAlMukhtar1
+omarAlMukhtar1 aljalal
+shifa salahKhalaf2
+salahKhalaf2 shifa
+shifa abuAli
+abuAli shifa
+shifa omarAlMukhtar2
+omarAlMukhtar2 shifa
+abuAli alMashtal
+alMashtal abuAli
+alMashtal alMashtal2
+alMashtal2 alMashtal
+alMashtal2 ahmadOraby
+ahmadOraby alMashtal2
+alMashtal2 omarAlMukhtar3
+omarAlMukhtar3 alMashtal2
+ahmadOraby salahKhalaf2
+salahKhalaf2 ahmadOraby
+salahKhalaf1 salahKhalaf2
+salahKhalaf2 salahKhalaf1
+salahKhalaf1 alToam3
+alToam3 salahKhalaf1
+alToam1 alToam2
+alToam2 alToam1
+alToam2 alToam3
+alToam3 alToam2
+alToam2 alSalaten2
+alSalaten2 alToam2
+alSalaten1 alSalaten2
+alSalaten2 alSalaten1
+Zeitoun omarAlMukhtar1
+omarAlMukhtar1 Zeitoun
+Zeitoun omarAlMukhtar2
+omarAlMukhtar2 Zeitoun
+omarAlMukhtar1 omarAlMukhtar2
+omarAlMukhtar2 omarAlMukhtar1
+omarAlMukhtar2 omarAlMukhtar3
+omarAlMukhtar3 omarAlMukhtar2
+AlZahra al-Mughraqa
+al-Mughraqa AlZahra
+AlZahra WadiGhaza
+WadiGhaza AlZahra
+WadiGhaza alRashid4
+alRashid4 WadiGhaza
+WadiGhaza NuseiratCamp
+NuseiratCamp WadiGhaza
+alShawa1 alShawa2
+alShawa2 alShawa1
+alShawa2 alShawa3
+alShawa3 alShawa2
+alShawa3 alSenaa
+alSenaa alShawa3
+alShawa3 alShawa4
+alShawa4 alShawa3
+alShawa4 alShawa5
+alShawa5 alShawa4
+alShawa5 cario1
+cario1 alShawa5
+alShawa5 alShawa6
+alShawa6 alShawa5
+alShawa6 cario2
+cario2 alShawa6
+alShawa6 no10_6
+no10_6 alShawa6
+cario1 cario2
+cario2 cario1
+no10_1 no10_6
+no10_6 no10_1
+no10_1 no10_2
+no10_2 no10_1
+no10_2 no10_3
+no10_3 no10_2
+no10_3 no10_4
+no10_4 no10_3
+no10_4 no10_5
+no10_5 no10_4
+al-Mughraqa NuseiratCamp
+NuseiratCamp al-Mughraqa
+NuseiratCamp AlZahra
+AlZahra NuseiratCamp
+Bureij Maghazi
+Maghazi Bureij
+Maghazi AlMusaddar
+AlMusaddar Maghazi
+AlZawayda alMokhayam2_1
+alMokhayam2_1 AlZawayda
+AlZawayda alMokhayam2_2
+alMokhayam2_2 AlZawayda
+alMokhayam2_1 alMokhayam2_2
+alMokhayam2_2 alMokhayam2_1
+alMokhayam2_2 alMokhayam2_4
+alMokhayam2_4 alMokhayam2_2
+alMokhayam2_4 alMokhayam2_5
+alMokhayam2_5 alMokhayam2_4
+alMokhayam2_5 alMokhayam2_6
+alMokhayam2_6 alMokhayam2_5
+AlMusaddar Wadial-Salqa
+Wadial-Salqa AlMusaddar
+Deiral-Balah alMokhayam2_2
+alMokhayam2_2 Deiral-Balah
+Wadial-Salqa kissufim1
+kissufim1 Wadial-Salqa
+Wadial-Salqa S9_1
+S9_1 Wadial-Salqa
+kissufim1 kissufim2
+kissufim2 kissufim1
+kissufim2 kissufim3
+kissufim3 kissufim2
+kissufim2 Wadial-Salqa
+Wadial-Salqa kissufim2
+kissufim3 Wadial-Salqa
+Wadial-Salqa kissufim3
+kissufim3 kissufim4
+kissufim4 kissufim3
+AlQarara S17
+S17 AlQarara
+AlQarara S18
+S18 AlQarara
+S17 S18
+S18 S17
+S18 'Abasanal-Jadida
+'Abasanal-Jadida S18
+S18 S19
+S19 S18
+BaniSuheila 'Abasanal-Jadida
+'Abasanal-Jadida BaniSuheila
+BaniSuheila alAwda
+alAwda BaniSuheila
+BaniSuheila absan1
+absan1 BaniSuheila
+elBaheer1 gamalAbedElnaser5
+gamalAbedElnaser5 elBaheer1
+elBaheer1 gamalAbedElnaser2
+gamalAbedElnaser2 elBaheer1
+elBaheer1 gamalAbedElnaser4
+gamalAbedElnaser4 elBaheer1
+elBaheer1 elBaheer4
+elBaheer4 elBaheer1
+elBaheer2 elBaheer3
+elBaheer3 elBaheer2
+elBaheer2 elBaheer5
+elBaheer5 elBaheer2
+elBaheer2 elBaheer4
+elBaheer4 elBaheer2
+gamalAbedElnaser2 osamaElnajjar1
+osamaElnajjar1 gamalAbedElnaser2
+gamalAbedElnaser2 Khan_Yunis
+Khan_Yunis gamalAbedElnaser2
+gamalAbedElnaser5 gamalAbedElnaser6
+gamalAbedElnaser6 gamalAbedElnaser5
+gamalAbedElnaser5 Khan_Yunis
+Khan_Yunis gamalAbedElnaser5
+alAwda absan1
+absan1 alAwda
+absan1 absan2
+absan2 absan1
+absan1 'Abasanal-Jadida
+'Abasanal-Jadida absan1
+absan2 absan3
+absan3 absan2
+absan3 Khuza'a
+Khuza'a absan3
+alSalam Khuza'a
+Khuza'a alSalam
+'Abasanal-Kabira absan2
+absan2 'Abasanal-Kabira
+AlFukhkhari S16_1
+S16_1 AlFukhkhari
+Khan_Yunis elBaheer1
+elBaheer1 Khan_Yunis
+tahaHussein1 saddam1
+saddam1 tahaHussein1
+tahaHussein2 saddam1
+saddam1 tahaHussein2
+tahaHussein2 tahaHussein3
+tahaHussein3 tahaHussein2
+saddam1 saddam2
+saddam2 saddam1
+saddam2 alOrouba3
+alOrouba3 saddam2
+saddam2 othman
+othman saddam2
+al-Bayuk al-Shoka
+al-Shoka al-Bayuk
